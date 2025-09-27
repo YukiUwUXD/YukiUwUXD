@@ -2,7 +2,7 @@
 
 ## EDV
 
-<h3>Very good knowledge</h3>
+<h3>Good knowledge</h3>
 <p>
   <img src="./assets/EDV/Word.png" height="32" alt="Word" style="margin-right:8px;" />
   <img src="./assets/EDV/Excel.png" height="32" alt="Excel" style="margin-right:8px;" />
